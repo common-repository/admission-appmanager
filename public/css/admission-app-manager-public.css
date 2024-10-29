@@ -1,0 +1,23 @@
+.aam-progress-bar {
+  width: 100%;
+  height: 19px;
+  border-radius: 3px;
+  background: #eee; }
+  .aam-progress-bar span {
+    display: block;
+    border-radius: 3px;
+    background: #88cd2a;
+    height: 19px;
+    width: 0; }
+
+.aam-remove-row {
+  color: #F00;
+  font-weight: 700;
+  text-decoration: none; }
+
+.aam-add-row {
+  color: #0F0;
+  font-weight: 700;
+  text-decoration: none; }
+
+/*# sourceMappingURL=admission-app-manager-public.css.map */

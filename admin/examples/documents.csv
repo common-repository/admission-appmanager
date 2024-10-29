@@ -1,0 +1,6 @@
+name;step_name;step_days;step_max;step_min;step_weight;step_parent
+some document;first step;10;12;8;10;
+some document;second step;15;20;15;20;1
+some document;third step;8;8;5;70;
+other document;first step;20;30;15;50;
+other document;second step;30;45;20;50;1
